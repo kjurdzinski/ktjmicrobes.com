@@ -210,7 +210,7 @@ collections:
   portfolio:
     output: true
     permalink: /:collection/:path/
-  presentiations_and_posters:
+  presentations_and_posters:
     output: true
     permalink: /:collection/:path/
 
@@ -262,10 +262,10 @@ defaults:
       author_profile: true
       share: true
       comment: true
-  # _presentiations_and_posters
+  # _presentations_and_posters
   - scope:
       path: ""
-      type: presentiations_and_posters
+      type: presentations_and_posters
     values:
       layout: talk
       author_profile: true
