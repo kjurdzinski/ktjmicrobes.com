@@ -1,0 +1,10 @@
+---
+title: "DNA-based monitoring uncovers contrasting salinity-driven diversity patterns of bacterial and protist plankton in the Baltic Sea area"
+collection: publications
+permalink: /publication/2026-05-28-marine-microbiome-prediction
+excerpt: 'Salinity has been identified as a primary factor structuring community composition in global diversity assessments of free-living bacteria in non-extreme environments. It remains unknown whether the same is true for protists. Moreover, changes in alpha diversity of both bacteria and protists across the brackish salinity gradient remain elusive. Here, we analyzed protist and bacterial diversity using DNA metabarcoding across 398 surface water samples synchronized with national monitoring of the Baltic Sea and the Kattegat-Skagerrak. We show that salinity, unlike other environmental factors, had a stronger effect on bacterial than on protist community composition. Likewise, protist taxonomic units tended to have broader salinity niches than bacterial ones. In contrast, protist but not bacterial alpha diversity (richness) increased with salinity. Bacterial alpha diversity was similar across salinities despite drastic changes in community composition, as marine-associated taxa steadily replaced freshwater-associated ones. Conversely, marine-associated protists dominated across most of the salinity gradient, with fewer taxonomic units adapted to lower salinities. Overall, the diversity of protists but not bacteria followed patterns consistent with local adaptation as observed in other groups of organisms. Ultimately, the observed patterns form a baseline for environmental monitoring and suggest unexplored differences between bacterial and protist eco-evolutionary dynamics.'
+date: 2026-10-07
+venue: 'Communications Biology'
+paperurl: 'https://doi.org/10.1038/s42003-026-10977-4'
+citation: 'Jurdzinski, K.T., Latz, M.A., Torstensson, A. et al. DNA-based monitoring uncovers contrasting salinity-driven diversity patterns of bacterial and protist plankton in the Baltic Sea area. Commun Biol 9, 1308 (2026).'
+---
